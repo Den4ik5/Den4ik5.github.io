@@ -1,9 +1,10 @@
 # Dzianis Politykin
+### Minsk, BY
 
 ## About me
 ```markdown
 I am a student of Belarusian State University of Informatics and Radioelectronics. 
-My speciality is an **Artificial Intelligence**.
+My speciality is an Artificial Intelligence.
 I am looking for an oportunity to learn new things and I am trying to become a developer as soon as possible.
 Right now i am interested in everything and have not chosen my journey yet.
 I have been coding on:
