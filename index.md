@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Dzianis Politykin
 
-You can use the [editor on GitHub](https://github.com/Den4ik5/Den4ik5.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## About me
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I am a student of Belarusian State University of Informatics and Radioelectronics. 
+My speciality is an **Artificial Intelligence**.
+I am looking for an oportunity to learn new things and I am trying to become a developer as soon as possible.
+Right now i am interested in everything and have not chosen my journey yet.
+I have been coding on:
+- C++
+- Java
+- PHP
+- Python
+- Pascal
+Have been working on Symfony 3, Using ORM Doctrine, Apache, MYSQL, PHP MY ADMIN.
+Looking for a well paid job in IT. Field of activity does not matter.
 ```
+## Highlights
+```markdown
+- Created my own web site.
+- Succesfully passed course "industrial software development".
+```
+## Interests
+```markdown
+- Programming. 
+  I like when letters I typed do incredible things.
+- Algorithms.
+  It is interesting to improve my own program using something new.
+- Math.
+  Math helps me do some things in an unusual and simple way.
+- Sports.
+  In sports my preferences are ice hockey and snowboarding. I think that it is really cool.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Den4ik5/Den4ik5.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
